@@ -1,5 +1,5 @@
 {
-  "name": "instructor assignment-author plugin",
+  "name": "instructor user assignment-author component plugin",
   "type": "helper",
   "properties": {
     "user_type": "instructor",
